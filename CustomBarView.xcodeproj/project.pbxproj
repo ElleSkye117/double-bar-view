@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F1F7913223AE9C3001C8DE0 /* CustomBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F1F7912223AE9C3001C8DE0 /* CustomBarView.swift */; };
 		9FE342CE21E4182F00FFFDB9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE342CD21E4182F00FFFDB9 /* AppDelegate.swift */; };
 		9FE342D021E4182F00FFFDB9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE342CF21E4182F00FFFDB9 /* ViewController.swift */; };
 		9FE342D321E4182F00FFFDB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FE342D121E4182F00FFFDB9 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9F1F7912223AE9C3001C8DE0 /* CustomBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBarView.swift; sourceTree = "<group>"; };
 		9FE342CA21E4182F00FFFDB9 /* CustomBarView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomBarView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FE342CD21E4182F00FFFDB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9FE342CF21E4182F00FFFDB9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				9FE342D421E4183100FFFDB9 /* Assets.xcassets */,
 				9FE342D621E4183100FFFDB9 /* LaunchScreen.storyboard */,
 				9FE342D921E4183100FFFDB9 /* Info.plist */,
+				9F1F7912223AE9C3001C8DE0 /* CustomBarView.swift */,
 			);
 			path = CustomBarView;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F1F7913223AE9C3001C8DE0 /* CustomBarView.swift in Sources */,
 				9FE342D021E4182F00FFFDB9 /* ViewController.swift in Sources */,
 				9FE342CE21E4182F00FFFDB9 /* AppDelegate.swift in Sources */,
 			);
